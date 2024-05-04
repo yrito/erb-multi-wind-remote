@@ -1,0 +1,3 @@
+[submodule "src/settings-renderer/erb-m/modulo"]
+	path = src/settings-renderer/erb-m/modulo
+	url = https://github.com/alielmajdaoui/electron-react-boilerplate-multiple-windows.git
